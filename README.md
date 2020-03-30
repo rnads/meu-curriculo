@@ -58,7 +58,7 @@ Teófilo Otoni/MG
 ## Experência Profissional
 
 * **Projetos Pessoais**
-> Site CFCFORMOSA, e sitesma de simulado.
+> Site CFCFORMOSA, e sitema de simulado.
 
 > Sistema de mapeamento de micros de uma IES, emissão de relatórios dinâmicos, emissão de identificação de micros, e registro de manutenções.
 
