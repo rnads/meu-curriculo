@@ -12,7 +12,7 @@ Teófilo Otoni/MG
 
 **Linkedin:** www.linkedin.com/in/rnads
 
-**Github:** rnads
+**Github:** https://github.com/rnads
 
 **Inglês:** Básico
 
@@ -24,14 +24,13 @@ Teófilo Otoni/MG
 **BackEnd:**
 * PHP
 * Programação Orientada à Objeto
-* NODE.JS
+* NODE
 
 
 **FrontEnd:**
 * ES6
 * HTML5/CSS3
 * Responsive Design
-* jQuery
 * React
 
 
