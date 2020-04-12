@@ -6,7 +6,7 @@ Teófilo Otoni/MG
 ## Software Engineer
 
 
-**Telefone:** (33) 898427-7462
+**Telefone:** (33) 98427-7462
 
 **E-mail:** progrnads@gmail.com
 
@@ -24,6 +24,7 @@ Teófilo Otoni/MG
 **BackEnd:**
 * PHP
 * Programação Orientada à Objeto
+* NODE.JS
 
 
 **FrontEnd:**
@@ -31,10 +32,12 @@ Teófilo Otoni/MG
 * HTML5/CSS3
 * Responsive Design
 * jQuery
+* React
 
 
 **Banco de Dados:**
 * MySQL
+* SQLite
 
 
 **Infra**
@@ -47,11 +50,6 @@ Teófilo Otoni/MG
 * Sistema de Controle de versão *(git)*
 * Base de UX/UI.
 * Laravel
-
-
-**Experiências em outras linguagens:**
-* Conhecimentos básicos em C
-
 
 ---
 
@@ -70,8 +68,10 @@ Teófilo Otoni/MG
 
 ## Formação
 
-* **Graduação** - Sistemas de Informação - **[Em curso]**
+* **Graduação** - Sistemas de Informação - bacharelado - **[Em curso]**
 * **Curso Técnico** - Técnico em informática para internet - 2017/2019
 * **Curso** - Laravel pela Especializa Ti
 * **Curso** – PHP pela UpInside.
 * **Curso** – Desenvolvimento Web pela Udemy.
+* **Curso** – Semana Omnistack.
+
