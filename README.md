@@ -24,24 +24,19 @@ Teófilo Otoni - MG
 **BackEnd:**
 * PHP
 * Programação Orientada à Objeto
-* NODE
 
 
 **FrontEnd:**
-* ES6
 * HTML5/CSS3
 * Responsive Design
-* React
 
 
 **Banco de Dados:**
 * MySQL
-* SQLite
 
 
 **Infra**
 * Apache
-* Docker
 
 
 **Outros:**
