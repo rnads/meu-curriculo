@@ -3,7 +3,7 @@ Teófilo Otoni - MG
 
 ---
 
-## Software Engineer
+## Systems Analyst
 
 
 **Telefone:** (33) 98427-7462
@@ -29,6 +29,7 @@ Teófilo Otoni - MG
 **FrontEnd:**
 * HTML5/CSS3
 * Responsive Design
+* Bootstrap 4
 
 
 **Banco de Dados:**
