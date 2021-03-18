@@ -34,6 +34,7 @@ Teófilo Otoni - MG
 
 **Banco de Dados:**
 * MySQL
+* SQLServer
 
 
 **Infra**
@@ -43,8 +44,9 @@ Teófilo Otoni - MG
 **Outros:**
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
-* Base de UX/UI.
 * Laravel
+* Livewire
+* RM Totvs (Educacional)
 
 ---
 
@@ -53,10 +55,14 @@ Teófilo Otoni - MG
 * **Projetos Pessoais**
 > Site CFCFORMOSA, e sitema de simulado.
 
+> Sistema de Ordens de Serviço (PHP).
+
 > Sistema de mapeamento de micros de uma IES, emissão de relatórios dinâmicos, emissão de identificação de micros, e registro de manutenções.
 
 * 2019/Dias Atuais– **Unipac - Faculdade Presidente Antônio Carlos**
 > Atuo no suporte aos funcionários internos, desenvolvimento de aplicações, sites e manutenção nos já existentes.
+> Desenvolvimento de sistema de captação de oportunidades, realização de simulados dinâmicos, redações randomizadas online e agendamentos presenciais.
+> Consultas em MySql e SqlServer.
 
 
 ---
