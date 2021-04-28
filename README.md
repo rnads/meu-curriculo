@@ -1,9 +1,8 @@
 # Renan Alves
-Teófilo Otoni - MG
 
 ---
 
-## Systems Analyst
+## Desenvolvedor
 
 
 **Telefone:** (33) 98427-7462
@@ -46,18 +45,18 @@ Teófilo Otoni - MG
 * Sistema de Controle de versão *(git)*
 * Laravel
 * Livewire
-* RM Totvs (Educacional)
+* RM Totvs *(Educacional)*
 
 ---
 
 ## Experência Profissional
 
 * **Projetos Pessoais**
-> Site CFCFORMOSA, e sitema de simulado.
+> Site CFCFORMOSA, e sitema de simulado *(Laravel)*.
 
 > Sistema de Ordens de Serviço (PHP).
 
-> Sistema de mapeamento de micros de uma IES, emissão de relatórios dinâmicos, emissão de identificação de micros, e registro de manutenções.
+> Sistema de mapeamento de micros de uma IES, emissão de relatórios dinâmicos, emissão de identificação de micros, e registro de manutenções *(Laravel)*.
 
 * 2019/Dias Atuais– **Unipac - Faculdade Presidente Antônio Carlos**
 > Atuo no suporte aos funcionários internos, desenvolvimento de aplicações, sites e manutenção nos já existentes.
