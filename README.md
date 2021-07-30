@@ -2,7 +2,7 @@
 
 ---
 
-## Desenvolvedor
+## Desenvolvedor Web
 
 
 **Telefone:** (33) 98427-7462
@@ -15,14 +15,12 @@
 
 **Inglês:** Básico
 
-
 ---
 
 ## Competências
 
 **BackEnd:**
-* PHP
-* Programação Orientada à Objeto
+* PHP - LARAVEL
 
 
 **FrontEnd:**
@@ -46,29 +44,31 @@
 * Laravel
 * Livewire
 * RM Totvs *(Educacional)*
+* Conhecimento intermédiário na plataforma Moodle.
 
 ---
 
 ## Experência Profissional
 
 * **Projetos Pessoais**
-> Site CFCFORMOSA, e sitema de simulado *(Laravel)*.
+> Site CFCFORMOSA, e sitema de simulado *(lARAVEL)*.
 
 > Sistema de Ordens de Serviço (PHP).
 
-> Sistema de mapeamento de micros de uma IES, emissão de relatórios dinâmicos, emissão de identificação de micros, e registro de manutenções *(Laravel)*.
+> Sistema de mapeamento de micros de uma IES, emissão de relatórios dinâmicos, emissão de identificação de micros, e registro de manutenções *(LARAVEL)*.
 
 * 2019/Dias Atuais– **Unipac - Faculdade Presidente Antônio Carlos**
 > Atuo no suporte aos funcionários internos, desenvolvimento de aplicações, sites e manutenção nos já existentes.
-> Desenvolvimento de sistema de captação de oportunidades, realização de simulados dinâmicos, redações randomizadas online e agendamentos presenciais.
-> Consultas em MySql e SqlServer.
-
+> Desenvolvimento de sistema de captação, realização de simulados dinâmicos, redações randomizadas online e agendamentos presenciais.
+> Relatórios SQL e MySql.
+> Criação e manutenção de cursos e alunos na plataforma MOODLE.
 
 ---
 
 ## Formação
 
 * **Graduação** - Sistemas de Informação - bacharelado - **[Em curso]**
+* **Pós Graduação** -Análise e Desenvolvimento de Sistemas - **[Em curso]**
 * **Curso Técnico** - Técnico em informática para internet - 2017/2019
 * **Curso** - Laravel pela Especializa Ti
 * **Curso** – PHP pela UpInside.
